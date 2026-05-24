@@ -63,20 +63,17 @@ A personality generator
 A psychological diagnostic tool
 A neuroscience claim
 
-これは好奇心駆動の実験的リサーチプロトタイプです。Current LimitationsTopic
-Status
-Consciousness
-Not implemented
-Qualia
-Unknown
-Meta-awareness
-Unresolved
-Real human emotion
-Not reproduced
-Personality identity
-Not implemented
-Ethical reasoning
-Not implemented
+これは好奇心駆動の実験的リサーチプロトタイプです。
+## Current Limitations
+
+| Topic                | Status          |
+|----------------------|-----------------|
+| Consciousness        | Not implemented |
+| Qualia               | Unknown         |
+| Meta-awareness       | Unresolved      |
+| Real human emotion   | Not reproduced  |
+| Personality identity | Not implemented |
+| Ethical reasoning    | Not implemented |
 
 Potential Research DirectionsAttractor analysis
 Phase-space dynamics
