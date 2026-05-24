@@ -56,16 +56,14 @@ Traditional systems often pursue:
 ### 3. Residual Persistence
 ```python
 self.unresolved += stereo * 0.012  # 例
-未解決の状態を意図的に残し、完全リセットを避ける設計です。4. Asymmetric Emotional Propagation負の感情伝播は特にストレス下で強く、感染しやすいように設計されています。5. Relationship Dependencyポジティブな安定化は自己生成されにくく、他者（関係性）との相互依存ループが存在します。
-Important PositionThis repository is NOT:An AGI project
+
+未解決の状態を意図的に残し、完全リセットを避ける設計です。4. Asymmetric Emotional Propagation負の感情伝播は特にストレス下で強く、感染しやすいように設計されています。5. Relationship Dependencyポジティブな安定化は自己生成されにくく、他者（関係性）との相互依存ループが存在します。Important PositionThis repository is NOT:An AGI project
 A consciousness project
 A personality generator
 A psychological diagnostic tool
 A neuroscience claim
 
-これは好奇心駆動の実験的リサーチプロトタイプです。
-
-Current LimitationsTopic
+これは好奇心駆動の実験的リサーチプロトタイプです。Current LimitationsTopic
 Status
 Consciousness
 Not implemented
@@ -80,7 +78,14 @@ Not implemented
 Ethical reasoning
 Not implemented
 
+Potential Research DirectionsAttractor analysis
+Phase-space dynamics
+Residual quality structures
+Dual-agent interaction
+Bounded recursive modulation
 
 LicenseMIT License
+
+
 
 
