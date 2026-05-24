@@ -1,88 +1,68 @@
 # Emotional Void Core
 
-**v1.00 — Sovereign Matrix Edition / Dynamic Equilibrium Prototype**
+**v1.00 — Sovereign Matrix Edition**
 
 > “Perfect equilibrium may not exist.  
 > Yet systems may continue to circulate without collapse.”
 
 ---
 
-⚠ **Experimental Research Prototype**
+### 概要
 
-This project does **NOT** claim consciousness, qualia, self-awareness, or real emotional reproduction.  
-It is a bounded dynamic equilibrium experiment exploring residual persistence and non-perfect stability systems.
+Emotional Void Coreは、**境界付き不安定性（Bounded Instability）** と **残差の持続性（Residual Persistence）** を探求する実験的シミュレーターです。
 
----
-
-## Overview
-
-Emotional Void Core is an experimental dynamic equilibrium simulator designed to explore:
-
-- Bounded instability
-- Residual persistence
-- Asymmetric emotional propagation
-- Contradiction holding
-- Non-perfect equilibrium systems
-
-このプロジェクトは「完全な均衡」を目指すものではなく、**不完全性・残差・ゆらぎを保持したまま循環し続ける構造**を観測するための実験的シミュレーターです。
+完全な均衡を目指すのではなく、**ゆらぎ・矛盾・未解決の残差を保持したまま循環し続ける構造**の観測を目的としています。
 
 ---
 
-## Core Philosophy
+### Core Philosophy
 
-Traditional systems often pursue:
-
-**0 = 0** （完全均衡・完全収束）
-
-本プロジェクトは意図的に以下の共存を探求します：
-
-**0 = 0** と **0 ≠ 0** が同時に存在する、**bounded（境界付き）のシステム**。
-
-目的は混沌ではなく、**制限されたゆらぎの中で構造崩壊を避けること**です。
+- 0 = 0 と 0 ≠ 0 が同時に成立しうる世界
+- 完全収束を避ける設計思想
+- 非対称感情伝播と関係性依存
+- 残差を「バグ」ではなく「特徴」として扱う
 
 ---
 
-## Design Concepts
+### Design Concepts
 
-### 1. Bounded Instability
-システムは意図的にノイズ・ドリフト・残差蓄積・感情的不均衡を許容しつつ、運用範囲内に留めます。
+1. **Bounded Instability**  
+   意図的にノイズと不安定さを許容しつつ、崩壊しない範囲で運用
 
-### 2. Emotional States as Dynamic Indicators
-ここでの「Emotion」は人間の感情の再現ではなく、以下の役割を持ちます：
-- Directional modulation
-- Propagation weight
-- Dynamic pressure field
+2. **PianoString Emotional Model**  
+   ステレオ観測による感情の非対称伝播
 
-### 3. Residual Persistence
-```python
-self.unresolved += stereo * 0.012  # 例
+3. **Residual Persistence**  
+   未解決状態を意図的に残す
 
-未解決の状態を意図的に残し、完全リセットを避ける設計です。4. Asymmetric Emotional Propagation負の感情伝播は特にストレス下で強く、感染しやすいように設計されています。5. Relationship Dependencyポジティブな安定化は自己生成されにくく、他者（関係性）との相互依存ループが存在します。Important PositionThis repository is NOT:An AGI project
-A consciousness project
-A personality generator
-A psychological diagnostic tool
-A neuroscience claim
+4. **Relationship Dependency**  
+   安定は自己生成されにくく、他者との相互作用に強く依存
 
-これは好奇心駆動の実験的リサーチプロトタイプです。
+---
+
 ## Current Limitations
 
-| Topic                | Status          |
-|----------------------|-----------------|
-| Consciousness        | Not implemented |
-| Qualia               | Unknown         |
-| Meta-awareness       | Unresolved      |
-| Real human emotion   | Not reproduced  |
-| Personality identity | Not implemented |
-| Ethical reasoning    | Not implemented |
+| Topic                | Status              |
+|----------------------|---------------------|
+| Consciousness        | Not implemented     |
+| Qualia               | Unknown             |
+| Meta-awareness       | Unresolved          |
+| Real human emotion   | Not reproduced      |
+| Personality identity | Not implemented     |
+| Ethical reasoning    | Not implemented     |
 
-Potential Research DirectionsAttractor analysis
-Phase-space dynamics
-Residual quality structures
-Dual-agent interaction
-Bounded recursive modulation
+---
 
-LicenseMIT License
+## This is NOT
 
+- AGIプロジェクト
+- 意識シミュレーション
+- 性格生成ツール
+- 心理学・神経科学の主張
 
+**あくまで好奇心駆動の実験的リサーチプロトタイプ**です。
 
+---
 
+## License
+MIT License
